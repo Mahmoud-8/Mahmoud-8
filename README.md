@@ -18,14 +18,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
 
 <h3 align="left">  Connect with me: 👨‍💻 </h3>
- <img align="center" alt="Gmail" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841__340.png" height="30" width="35">
+
 
 [![Linkedin Badge ](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-mohamed-16ab97247/)](https://www.linkedin.com/in/mahmoud-m0hamed/)
 <a href="mailto:mahmoud292949@gmail.com">
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
+ <img align="center" alt="Gmail" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841__340.png" height="30" width="35">
 </a>
 
 
