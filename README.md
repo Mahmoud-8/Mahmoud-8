@@ -25,12 +25,6 @@
 
 
 [![Linkedin Badge ](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-mohamed-16ab97247/)](https://www.linkedin.com/in/mahmoud-m0hamed/)
-<a href="mailto:mahmoud292949@gmail.com">Send mail</a>
-
-
-<a href="mailto:">
- <img align="center" alt="Gmail" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841__340.png" height="30" width="35">
-</a>
 
 
 
