@@ -23,7 +23,7 @@
 
 <h3 align="left">  Connect with me: 👨‍💻 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-m0hamed/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-m0hamed/)
 
 
 
