@@ -2,7 +2,7 @@
 
 
 ## Hi there I'm Mahmoud 👋🏻 😃 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-8&show_icons=true&theme=radical)
+ ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=Mahmoud-8&show_icons=true&theme=radical)
 
 
 
