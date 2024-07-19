@@ -44,7 +44,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-m0hamed/)
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=mahmoud292949@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=Me292949@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
