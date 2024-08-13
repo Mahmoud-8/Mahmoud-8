@@ -6,6 +6,9 @@
  ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=Mahmoud-8&show_icons=true&theme=radical)
 
 ## My Tech Stack
+<a href="">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</a>
 
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,6 +25,37 @@
 <a href="https://de.wikipedia.org/wiki/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+
+
+<a href="">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
+
+
+<a href="">
+  <img src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</a>
+
 
 <a href="https://tailwindcss.com/">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
