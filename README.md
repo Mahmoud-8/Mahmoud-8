@@ -76,7 +76,7 @@
 
 <h3 align="left">  Connect with me: 👨‍💻 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-m0hamed/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahm0ud-/)
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=Me292949@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
